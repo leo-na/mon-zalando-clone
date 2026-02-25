@@ -39,8 +39,8 @@ Ce projet est une application web e-commerce développée avec React, Vite et Ta
 
 1. **Cloner le projet**
 ```bash
-git clone https://github.com/leo-na/zalando-clone.git
-cd zalando-clone
+git clone https://github.com/leo-na/mon-zalando-clone.git
+cd mon-zalando-clone
 
 ```
 
